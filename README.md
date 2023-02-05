@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bharath Kumar Netrambakam</h1>
 <h3 align="center">A Highly skilled and motivated Full Stack Developer from India</h3>
-<img align="center" alt = "coding" position = "relative" width = "100%" src = "https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif">
+<img align="center" alt = "coding" position = "relative" width = "100%" src = "[https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fredblink.com%2Ffull-stack-developer-roadmap%2F&psig=AOvVaw3ppCXAdzQNMO1LAExNA9vN&ust=1675701208576000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNCUwtDn_vwCFQAAAAAdAAAAABBD)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath999999&label=Profile%20views&color=0e75b6&style=flat" alt="bharath999999" /> </p>
 
